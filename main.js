@@ -55,7 +55,7 @@ const ssinfo = {
     caption: "",
     Permissions: 2, // private??
     hscreenshot: 0x1999999999999999,
-    publishedfield: 0
+    publishedfileid: 0
 }
 
 let insert_pos = 0;
